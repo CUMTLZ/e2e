@@ -6,7 +6,7 @@ $ npm install
 $ npm start
 Second, test it.
 
-$ git clone https://github.com/ZhuSiyuan/Puppeteer-e2e.git
+$ git clone https://github.com/CUMTLZ/e2e.git
 $ npm install
 $ npm test
 
